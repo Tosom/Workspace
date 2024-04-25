@@ -1,0 +1,29 @@
+#titulo{
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: aliceblue;
+    font-size: 40px;
+    background-color: cornflowerblue;
+    background: linear-gradient(top, blue, rgb(124, 210, 212));
+    background: -webkit-linear-gradient(top, blue, rgb(124, 210, 212));
+    background: -o-linear-gradient(top, blue, rgb(124, 210, 212));
+    box-shadow: black 5px 10px 20px;
+    padding: 15px;
+    color: chartreuse;
+    text-shadow: black 15px, 15px, 5px;
+    width: 50%;
+    border-radius: 30px;
+    margin: 40px auto;
+
+}
+.imagen{
+    width: 400px;
+    height: 260px;
+    padding: 4px;
+    border: 2px solid blueviolet;
+    float: left;
+    margin: 10px 1px;
+    border-radius: 10px;
+    
+    
+}
